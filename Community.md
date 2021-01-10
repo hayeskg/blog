@@ -42,8 +42,6 @@ During 2020, I had the privilege and opportunity to connect and interact with co
 
 - [ROS](https://www.ros.org/) - Robot Operating System. A set of Linux-based open-source technologies to build **robots** with an active contributor and user community 
 
----
-
 This list is a highly individual and by no means exhaustive, I simply use it to illustrate the very **human need to belong**, share experiences and learn about others' views and opinions. It's also clear that they represent value to members and wider society simultaneously. 
 
 In this truly unique time of global thinking and relative physical constraints, seeking community takes on new and old dimensions. People are spending more time where they live, exploring and building communities locally, while finding online platforms to allow their thoughts and interests to evolve beyond borders. In beautiful human fashion, we've adapted quickly to our changing environment and we can use this opportunity to **engage with others around ideas that matter to us** most.

@@ -10,7 +10,7 @@ As far as I can make out, community is deeply interwoven with the **human experi
 - peers 
 - security
 
-Communities have evoled around humans organically or forcefully since the beginning of time, forming groups around:
+Communities have evolved around humans organically or forcefully since the beginning of time, forming groups around:
 - faith or world view
 - occupation or trade
 - geography

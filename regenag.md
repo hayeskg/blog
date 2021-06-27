@@ -64,9 +64,9 @@ It's our role as engineers and technologists to demystify and make accessible th
 
 After some years of focusing on engineering, software and technology, I am excited and relieved to have found an area where I can channel my professional energy. I am confident that regenerative agriculture is here to stay and can provide value to our planet and communities. Applying my technical skills in this direction gives me purpose and motivation.
 
-I wanted too give my friends, peers and contacts a bit of a view into my thinking on this matter, if nothing else to spark discussion. Exchanging ideas, influencing each others' viewpoints, debating is all a healthy part of innovating. I also hope to reach some people who are passionate about building a more sustainable, resilient and diverse agriculture sector. One that values people, plants and the planet.
+I wanted too give my friends, peers and contacts a bit of a view into my thinking on this matter, if nothing else to spark discussion. Exchanging ideas, influencing each others' viewpoints, debating is all a healthy part of innovating. I want engineers to talk to farmer and listen to their pain points. I want farmers to listen to engineers and understand the limitations and opportunities and ways of working. I would like to reach and connect with people who are passionate about building a more sustainable, resilient and diverse agriculture sector, one that embraces new tools. One that values people, plants and the planet.
 
-Healthy soils -> healthy plant -> healthy food -> healthy people -> healthy communities -> healthy societies -> healthy environments -> healthy planet
+healthy soils -> healthy plant -> healthy food -> healthy people -> healthy communities -> healthy societies -> healthy environments -> healthy planet
 
 And so the circularity continues...♼
 
